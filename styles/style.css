@@ -1,0 +1,28 @@
+.titles
+{
+  text-align:center;
+  font-weight:bold;
+  color:rgb(247, 192, 53);
+  background-color:whitesmoke;
+  font-family: Arial, Helvetica, sans-serif;
+
+} 
+
+.link
+{
+  font-size:18px;
+}
+
+.onion,
+.soup
+{
+  height:280px;
+  width:280px;
+  display: block;
+  margin:0 auto;
+}
+
+.topic
+{
+  color:rgb(247,192,53);
+}
